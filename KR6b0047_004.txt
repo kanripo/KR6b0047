@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:42.366709
+#+DATE: 2015-08-30 19:35:02.582606
 #+TITLE: 佛本行集經
 #+PROPERTY: CBETA_ID T03n0190
 #+PROPERTY: ID KR6b0047
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 190
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6b0047_T_004-0667c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
-
- 《佛本行集經》卷第四¶
+《佛本行集經》卷第四¶
 ¶
-隋天竺三藏闍那崛多譯¶
+隨天竺三藏闍那崛多譯¶
 受決定記品下¶
 
 「爾時，然燈如來、多陀阿伽度、阿羅呵、三藐三佛¶
@@ -343,7 +342,7 @@
 陀。¶
 
 「阿難！如是次第，三十一劫時，有一佛出現於¶
-世，號曰尸棄多陀阿伽度、阿羅呵、三藐三佛¶
+世，號曰尸棄多陀阿伽度、阿羅訶、三藐三佛¶
 陀。同是劫中，又有一佛，復出於世，號曰神¶
 聞多陀阿伽度、阿羅呵、三藐三佛陀。¶
 
@@ -503,11 +502,7 @@
 #+END_VERSE
 」¶
 
-3賢劫王種品
-:PROPERTIES:
-:head: 《佛本行集經》賢劫王種品第三上
-:END:
-¶
+《佛本行集經》賢劫王種品第三上¶
 
 爾時，佛在王舍大城竹林精舍迦蘭陀鳥所居¶
 之處，與大比丘五百人俱。爾時，世尊依諸佛¶
