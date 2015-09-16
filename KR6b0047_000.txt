@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛本行集經
+#+DATE: 2015-08-30 19:34:45.296386
+#+PROPERTY: JUAN 0
