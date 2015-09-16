@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:43.285949
+#+DATE: 2015-08-30 19:34:49.141695
 #+TITLE: 佛本行集經
 #+PROPERTY: CBETA_ID T03n0190
 #+PROPERTY: ID KR6b0047
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 190
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6b0047_T_030-0791b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 30
 ¶
 ¶
-
- 《佛本行集經》卷第三十¶
+《佛本行集經》卷第三十¶
 ¶
-隋天竺三藏闍那崛多譯¶
+隨天竺三藏闍那崛多譯¶
 菩薩降魔品下¶
 
 「爾時，彼處別有地神，將於一瓶涼冷之水，灑¶
@@ -201,11 +200,7 @@
 #+END_VERSE
 」¶
 
-33成無上道品
-:PROPERTIES:
-:head: 《佛本行集經》成無上道品第三十三
-:END:
-¶
+《佛本行集經》成無上道品第三十三¶
 
 「爾時，菩薩既已降伏一切魔怨，拔諸毒刺建¶
 立勝幢，坐金剛座已，滅一切諸世間內諍鬪¶
