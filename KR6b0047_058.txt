@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:44.278725
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:58
 #+TITLE: 佛本行集經
 #+PROPERTY: CBETA_ID T03n0190
 #+PROPERTY: ID KR6b0047
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 190
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6b0047_T_058-0919a> ¶
 #+PROPERTY: JUAN 58
 ¶
 ¶
-
- 《佛本行集經》卷第五十八¶
+《佛本行集經》卷第五十八¶
 ¶
 隋天竺三藏闍那崛多譯¶
 婆提唎迦等品中¶
@@ -423,7 +422,7 @@
 
 爾時，諸釋童子等輩，共剃髮師，詣向佛所，到¶
 佛所已，頂禮佛足，却坐一面，而作是言：「世¶
-尊！今者願放我等捨家出家，及受具戒。」復白¶
+尊！今者願放我等捨家出家，及受具戒。」復曰¶
 佛言：「世尊！欲與我等出家，先當度此剃除髮¶
 師，於前出家。何以故？此剃髮師，長夜勤苦，¶
 供承我等，不曾有失，是故於先與彼出家，及¶

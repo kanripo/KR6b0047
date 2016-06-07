@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:42.564109
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:58
 #+TITLE: 佛本行集經
 #+PROPERTY: CBETA_ID T03n0190
 #+PROPERTY: ID KR6b0047
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 190
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6b0047_T_009-0692a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《佛本行集經》卷第九¶
+《佛本行集經》卷第九¶
 ¶
 隋天竺三藏闍那崛多譯¶
 從園還城品下¶
@@ -76,15 +75,11 @@
 「　「『如是王宮內，
 　眾事悉豐饒，¶
 　今作太子名，
-　應當名成利。』
+　應當名成利。』」
 #+END_VERSE
-」¶
-
-8相師占看品
-:PROPERTIES:
-:head: 《佛本行集經》相師占看品第八上
-:END:
 ¶
+
+* 《佛本行集經》相師占看品第八上¶
 
 「時，淨飯王即召相師解占觀者，呼使前來，令¶
 看太子，作如是言：『汝諸相師婆羅門等，占是¶

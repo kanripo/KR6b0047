@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:43.462681
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:58
 #+TITLE: 佛本行集經
 #+PROPERTY: CBETA_ID T03n0190
 #+PROPERTY: ID KR6b0047
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 190
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6b0047_T_036-0819b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 36
 ¶
 ¶
-
- 《佛本行集經》卷第三十六¶
+《佛本行集經》卷第三十六¶
 ¶
 隋天竺三藏闍那崛多譯¶
 
-39耶輸陀宿緣品
-:PROPERTIES:
-:head: 耶輸陀宿緣品第三十九
-:END:
-¶
+* 耶輸陀宿緣品第三十九¶
 
 「爾時，天竺波羅㮈城，有四居士大富長者，最¶
 為殊勝善男子輩。何等為四？所謂第一名毘¶
@@ -264,9 +259,9 @@
 　既已越度彼岸邊，
 　是則名為真勇健，¶
 　亦稱比丘善破惡，
-　又復名善解脫人。」
+　又復名善解脫人。」」
 #+END_VERSE
-」¶
+¶
 
 爾時，世尊說是偈已，而彼五百諸比丘等，心¶
 生希有未曾有事，已生希有未曾有故，各相¶
@@ -483,8 +478,8 @@
 　供養諸佛緣覺田，
 　及諸聲聞解脫眾，¶
 　現在人天受果報，
-　後得寂滅大涅槃。
+　後得寂滅大涅槃。」
 #+END_VERSE
-」¶
+¶
 《佛本行集經》卷第三十六¶
 
