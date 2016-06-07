@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:42.459312
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:58
 #+TITLE: 佛本行集經
 #+PROPERTY: CBETA_ID T03n0190
 #+PROPERTY: ID KR6b0047
@@ -382,7 +382,8 @@
 飯王納意姊妹，內於宮中，縱情嬉戲，歡娛¶
 受樂，依諸王法，治化四方。¶
 
-4上託兜率品
+* 4上託兜率品
+** 1
 :PROPERTIES:
 :head: 《佛本行集經》上託兜率品第四上
 :END:

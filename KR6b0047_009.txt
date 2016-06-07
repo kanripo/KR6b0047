@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:42.564109
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:58
 #+TITLE: 佛本行集經
 #+PROPERTY: CBETA_ID T03n0190
 #+PROPERTY: ID KR6b0047
@@ -76,11 +76,11 @@
 「　「『如是王宮內，
 　眾事悉豐饒，¶
 　今作太子名，
-　應當名成利。』
+　應當名成利。』」
 #+END_VERSE
-」¶
+¶
 
-8相師占看品
+* 8相師占看品
 :PROPERTIES:
 :head: 《佛本行集經》相師占看品第八上
 :END:

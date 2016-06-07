@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:43.753432
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:58
 #+TITLE: 佛本行集經
 #+PROPERTY: CBETA_ID T03n0190
 #+PROPERTY: ID KR6b0047
@@ -96,7 +96,8 @@
 內，與大比丘徒眾千人，所謂悉是舊仙螺髻¶
 梵志出家。¶
 
-47大迦葉因緣品
+* 47大迦葉因緣品
+** 1
 :PROPERTIES:
 :head: 《佛本行集經》大迦葉因緣品第四十七上
 :END:
